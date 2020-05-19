@@ -1,2 +1,5 @@
 hola lola
-adding something new on master to commit
+adding something new on master
+adding something new on master
+
+modified to create a pull request between a branch and a commit
